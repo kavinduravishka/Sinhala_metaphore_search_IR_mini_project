@@ -342,6 +342,44 @@ or
 
 ### Run the app
 
+#### Launch
+
 `$ cd app`
 
 `$ streamlit run app.py`
+
+![Home page](./app_screen_home.png)
+
+#### Search
+
+1.Search Metaphores for the given real meaning
+
+a)With the singer’s name and the real meaning
+
+![](./Picture1.png)
+
+b)With the real meaning
+
+![](./Picture2.png)
+
+c)With only the singer’s name
+
+![](./Picture3.png)
+
+2.Search Real meaning of given metaphores
+
+a)With the singer’s name and the Metaphore
+
+![](./Picture4.png)
+
+b)With the Metaphore
+
+![](./Picture5.png)
+
+c)With only the singer’s name
+
+![](./Picture6.png)
+
+3.Search Lyrics
+
+![](./Picture7.png)
