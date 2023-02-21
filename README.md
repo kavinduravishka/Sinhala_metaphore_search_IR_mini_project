@@ -1,4 +1,4 @@
-# Sinhala_metaphore_search_IR_mini_project
+# Sinhala_metaphore_search_project
 
 ## Setting Up
 
